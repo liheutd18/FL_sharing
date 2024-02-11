@@ -1,0 +1,1 @@
+fileID = read('1.txt','w');
